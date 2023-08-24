@@ -1,11 +1,25 @@
-# Obsidian Notes
+![[BKG1.png]]
 
-Publish your public notes with MkDocs
+# Site map
 
-## Hello World!
+- [[Activities]]
+- [[Animal crafts]]
+- [[Beginning of the schoolyear]]
+- [[Classroom decor]]
+- [[Cute random stuff]]
+- [[Drawing and painting]]
+- [[Fairy tales and fantasy crafts]]
+- [[Food crafts]]
+- [[Holidays]]
+- [[Lecture materials]]
+- [[Nature-inspired crafts]]
+- [[STEM]]
+- [[Umbrellas are fun!]]
+- [[Useful websites to find more crafts]]
+- [[Worksheets]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+# Crafts to sort
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+https://www.facebook.com/reel/2636601639823622
+https://alunoon.com/preschool/activities.php?c=1482&fbclid=IwAR0oSX-GcxekURP0yOVD3xQuwpLg7igRhjVP9hAYOZthD0UbkyK3TZrHLxE

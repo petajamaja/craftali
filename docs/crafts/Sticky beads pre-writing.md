@@ -1,0 +1,3 @@
+[Sticky "beads" - pre-writing work](https://www.facebook.com/reel/922194769073813)
+
+#stickers #paper #pre_writing #younger_kids 
