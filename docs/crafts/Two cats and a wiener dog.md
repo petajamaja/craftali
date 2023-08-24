@@ -1,3 +1,10 @@
-[2 cats and a wiener dog](https://www.facebook.com/reel/675868071021629)
+---
+tags:
+ - animals
+ - templates
+ - colorful_paper
+ - construction_paper
+ - toilet_paper_roll
+---
 
-#toilet_paper_roll #cardboard #colorful_paper #templates #animals 
+[2 cats and a wiener dog](https://www.facebook.com/reel/675868071021629)

@@ -3,6 +3,7 @@
 # Site map
 
 - [[Activities]]
+- [[All about me books]]
 - [[Animal crafts]]
 - [[Beginning of the schoolyear]]
 - [[Classroom decor]]

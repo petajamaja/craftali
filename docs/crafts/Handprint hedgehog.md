@@ -1,3 +1,11 @@
+---
+tags:
+ - handprint
+ - colorful_paper
+ - templates
+ - googley_eyes
+ - animals
+---
 
 ![[Handprint hedgehogs.png]]
 

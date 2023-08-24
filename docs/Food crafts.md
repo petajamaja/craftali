@@ -1,3 +1,3 @@
-[[Onigiri in a boat]]
-[[Paper pineapple]]
-[[Watermelon fan]]
+- [[Onigiri in a boat]]
+- [[Paper pineapple]]
+- [[Watermelon fan]]

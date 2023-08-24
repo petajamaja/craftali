@@ -1,3 +1,9 @@
+---
+tags:
+ - animalss
+ - colorful_paper
+ - templates
+ - modeling_clay
+ - fruit
+---
 ![[Hedgehogs.png]]
-
-#animals #colorful_paper #fruit #modeling_clay 

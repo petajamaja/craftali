@@ -1,4 +1,4 @@
-[[Fire blowing dragon]]
-[[Mermaid]]
-[[Origami dragon]]
-[[Paper sword]]
+- [[Fire blowing dragon]]
+- [[Mermaid]]
+- [[Origami dragon]]
+- [[Paper sword]]

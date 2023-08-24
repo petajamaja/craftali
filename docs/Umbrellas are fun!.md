@@ -1,3 +1,3 @@
-[[Moving umbrella]]
-[[Opening umbrella]]
-[[Paper umbrella]]
+- [[Moving umbrella]]
+- [[Opening umbrella]]
+- [[Paper umbrella]]
